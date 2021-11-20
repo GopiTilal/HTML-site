@@ -1,0 +1,66 @@
+
+ <!DOCTYPE html>
+ <html>
+   <head>
+     <meta charset="utf-8">
+     <title>tilak</title>
+
+<link rel="stylesheet" href="css/style.css">
+
+      </head>
+   <body>
+     <table cellspacing="30">
+       <tr>
+         <td><img src="image.jpg"></td>
+         <td> <h1>GopiTilak</h1>
+          <p><em>penuganchiprolu <strong><a href="https://google.com">krishna</a></strong></em></p><br>
+          <p>I am GopiTilak saineni son off saineni veladri nd saineni sandhya
+          brother off saineni thrishnka</p>
+        </td>
+      </tr>
+    </table>
+    <hr>
+    <h3>Choowdary</h3>
+    <ul>
+      <li>i am saineni GopiTilak Choowdary</li>
+      <li>i am studing MCA first year in kakinada</li>
+    </ul>
+    <hr>
+    <h3>Study Experiance</h3>
+    <table cellspacing="10">
+      <thead>
+        <tr>
+        <th>Date</th>
+        <th>Work</th>
+      </tr>
+    <tr>
+      <td>2017-2020</td>
+      <td> I completed BSC Computer Sciences</td>
+    </tr>
+    <tr>
+      <td>2012</td>
+      <td> In SV Vedic University,Tirupati</td>
+    </tr>
+  </table>
+  <hr>
+    <h3>Skills</h3>
+  <table cellspacing="10">
+    <tr>
+      <td>Talking</td>
+      <td>❤❤❤❤❤</td>
+    </tr>
+    <tr>
+      <td>playing</td>
+      <td>❤❤❤❤</td>
+    </tr>
+    <tr>
+      <td>Thinking</td>
+      <td>❤❤❤</td>
+    </tr>
+  </table>
+  <hr>
+
+        <a href="hobbies.html">my hobbies</a>
+        <a href="contact.html">contact</a>
+   </body>
+ </html>
